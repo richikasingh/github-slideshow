@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Richika Singh
 
 
 Use the left arrow to go back!
